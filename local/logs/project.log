@@ -1,0 +1,54 @@
+2017-05-06T03:14:03.639Z - normal: Load ~/.CocosCreator/settings.json
+2017-05-06T03:14:03.644Z - normal: checking language setting...
+2017-05-06T03:14:03.644Z - normal: Language: zh
+2017-05-06T03:14:05.139Z - success: protocol editor-framework registered
+2017-05-06T03:14:05.139Z - success: protocol app registered
+2017-05-06T03:14:05.139Z - success: protocol theme registered
+2017-05-06T03:14:05.139Z - success: protocol profile registered
+2017-05-06T03:14:05.139Z - success: protocol packages registered
+2017-05-06T03:14:05.140Z - success: protocol unpack registerred
+2017-05-06T03:14:05.140Z - success: protocol disable-commonjs registerred
+2017-05-06T03:14:06.080Z - normal: connected!
+2017-05-06T03:14:06.081Z - normal: Check project C:\Users\rebor\Documents\CocosProject\HelloWorld
+2017-05-06T03:14:06.084Z - normal: Initializing Cocos2d
+2017-05-06T03:14:07.214Z - normal: Initializing Asset Database
+2017-05-06T03:14:07.244Z - success: protocol uuid registerred
+2017-05-06T03:14:07.244Z - success: protocol db registerred
+2017-05-06T03:14:07.244Z - success: protocol thumbnail registerred
+2017-05-06T03:14:07.244Z - normal: Loading editor/builtin packages
+2017-05-06T03:14:07.390Z - success: assets loaded
+2017-05-06T03:14:07.391Z - success: builder loaded
+2017-05-06T03:14:07.395Z - success: hierarchy loaded
+2017-05-06T03:14:07.398Z - success: inspector loaded
+2017-05-06T03:14:07.399Z - success: keystore loaded
+2017-05-06T03:14:07.402Z - success: node-library loaded
+2017-05-06T03:14:07.404Z - success: preferences loaded
+2017-05-06T03:14:07.419Z - success: project-importer loaded
+2017-05-06T03:14:07.421Z - success: project-settings loaded
+2017-05-06T03:14:07.422Z - success: ui-kit loaded
+2017-05-06T03:14:07.424Z - success: ui-grid loaded
+2017-05-06T03:14:07.427Z - success: scene loaded
+2017-05-06T03:14:07.430Z - success: sprite-editor loaded
+2017-05-06T03:14:07.487Z - success: store loaded
+2017-05-06T03:14:07.491Z - success: timeline loaded
+2017-05-06T03:14:07.491Z - normal: Loading builtin packages
+2017-05-06T03:14:07.494Z - success: anysdk loaded
+2017-05-06T03:14:07.496Z - success: asset-db-debugger loaded
+2017-05-06T03:14:07.498Z - success: code-editor loaded
+2017-05-06T03:14:07.498Z - success: color-picker loaded
+2017-05-06T03:14:07.501Z - success: console loaded
+2017-05-06T03:14:07.504Z - success: package-manager loaded
+2017-05-06T03:14:07.507Z - success: tester loaded
+2017-05-06T03:14:07.509Z - success: ui-kit-preview-extra loaded
+2017-05-06T03:14:07.510Z - success: ui-kit-preview loaded
+2017-05-06T03:14:07.512Z - success: ui-tree loaded
+2017-05-06T03:14:07.619Z - normal: Initializing project C:\Users\rebor\Documents\CocosProject\HelloWorld
+2017-05-06T03:14:07.627Z - normal: Loading packages
+2017-05-06T03:14:07.631Z - normal: Watching packages
+2017-05-06T03:14:07.646Z - normal: Run Application
+2017-05-06T03:14:08.260Z - success: preview server running at http://localhost:7456
+2017-05-06T03:14:12.811Z - normal: 1.4.0
+2017-05-06T03:16:35.704Z - normal: Start to compile native project. Please wait...
+2017-05-06T03:16:35.709Z - normal: The log file path [ C:\Users\rebor\.CocosCreator\logs\native.log ]
+2017-05-06T03:17:13.622Z - normal: Compile native project successfully.
+2017-05-06T03:57:35.126Z - info: shutdown preview server

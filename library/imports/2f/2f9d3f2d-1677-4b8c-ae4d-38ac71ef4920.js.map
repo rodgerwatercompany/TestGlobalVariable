@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": ";AACA,OAAO,CAAC,GAAG,CAAC,gBAAgB,GAAG,MAAM,CAAC,CAAC;;AAEvC,OAAO,CAAC,GAAG,CAAC,eAAe,CAAC,CAAC;AAC7B,KAAK,IAAI,CAAC,IAAI,MAAM,EACpB,OAAO,CAAC,GAAG,CAAC,IAAI,GAAG,CAAC,CAAC,CAAC;AACtB,OAAO,CAAC,GAAG,CAAC,eAAe,CAAC,CAAC;;AAE7B,MAAM,CAAC,CAAC,GAAE,MAAM,CAAC,CAAC,IAAI,EAAE,CAAC;AACzB,OAAO,CAAC,GAAG,CAAC,SAAS,GAAG,MAAM,CAAC,CAAC,CAAC,CAAC;;AAElC,MAAM,CAAC,CAAC,CAAC,IAAI,GAAI;;AAEb,eAAW,EAAG,QAAQ;;CAEzB,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "\r\nconsole.log(\"Rodger window \" + window);\r\n\r\nconsole.log(\"*************\");\r\nfor (var i in window)\r\nconsole.log(\"i \" + i);\r\nconsole.log(\"*************\");\r\n\r\nwindow.G =window.G || {};\r\nconsole.log(\"Rodger \" + window.G);\r\n\r\nwindow.G.WORD =  {\r\n    \r\n    LabelString : \"rodger\"\r\n    \r\n};\r\n\r\n"
+  ]
+}
